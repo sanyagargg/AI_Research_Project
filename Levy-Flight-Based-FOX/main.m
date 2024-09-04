@@ -1,7 +1,7 @@
 % %
 %%FOX
 % LFFOX: A Levy Flight Based Fox-inspired Optimization Algorithm
-% Authors: Tripti Gusain, Himanshi, Sanya Garg
+% Author: Sanya Garg
 %%
 
 clear all 
